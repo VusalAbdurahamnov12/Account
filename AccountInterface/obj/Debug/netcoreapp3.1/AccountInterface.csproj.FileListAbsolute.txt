@@ -1,0 +1,28 @@
+C:\Users\sh13ld\Pictures\home task\AccountInterface\AccountInterface\bin\Debug\netcoreapp3.1\AccountInterface.exe
+C:\Users\sh13ld\Pictures\home task\AccountInterface\AccountInterface\bin\Debug\netcoreapp3.1\AccountInterface.deps.json
+C:\Users\sh13ld\Pictures\home task\AccountInterface\AccountInterface\bin\Debug\netcoreapp3.1\AccountInterface.runtimeconfig.json
+C:\Users\sh13ld\Pictures\home task\AccountInterface\AccountInterface\bin\Debug\netcoreapp3.1\AccountInterface.runtimeconfig.dev.json
+C:\Users\sh13ld\Pictures\home task\AccountInterface\AccountInterface\bin\Debug\netcoreapp3.1\AccountInterface.dll
+C:\Users\sh13ld\Pictures\home task\AccountInterface\AccountInterface\bin\Debug\netcoreapp3.1\AccountInterface.pdb
+C:\Users\sh13ld\Pictures\home task\AccountInterface\AccountInterface\obj\Debug\netcoreapp3.1\AccountInterface.csproj.AssemblyReference.cache
+C:\Users\sh13ld\Pictures\home task\AccountInterface\AccountInterface\obj\Debug\netcoreapp3.1\AccountInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sh13ld\Pictures\home task\AccountInterface\AccountInterface\obj\Debug\netcoreapp3.1\AccountInterface.AssemblyInfoInputs.cache
+C:\Users\sh13ld\Pictures\home task\AccountInterface\AccountInterface\obj\Debug\netcoreapp3.1\AccountInterface.AssemblyInfo.cs
+C:\Users\sh13ld\Pictures\home task\AccountInterface\AccountInterface\obj\Debug\netcoreapp3.1\AccountInterface.csproj.CoreCompileInputs.cache
+C:\Users\sh13ld\Pictures\home task\AccountInterface\AccountInterface\obj\Debug\netcoreapp3.1\AccountInterface.dll
+C:\Users\sh13ld\Pictures\home task\AccountInterface\AccountInterface\obj\Debug\netcoreapp3.1\AccountInterface.pdb
+C:\Users\sh13ld\Pictures\home task\AccountInterface\AccountInterface\obj\Debug\netcoreapp3.1\AccountInterface.genruntimeconfig.cache
+C:\Users\sh13ld\Desktop\AccountInterface\AccountInterface\bin\Debug\netcoreapp3.1\AccountInterface.exe
+C:\Users\sh13ld\Desktop\AccountInterface\AccountInterface\bin\Debug\netcoreapp3.1\AccountInterface.deps.json
+C:\Users\sh13ld\Desktop\AccountInterface\AccountInterface\bin\Debug\netcoreapp3.1\AccountInterface.runtimeconfig.json
+C:\Users\sh13ld\Desktop\AccountInterface\AccountInterface\bin\Debug\netcoreapp3.1\AccountInterface.runtimeconfig.dev.json
+C:\Users\sh13ld\Desktop\AccountInterface\AccountInterface\bin\Debug\netcoreapp3.1\AccountInterface.dll
+C:\Users\sh13ld\Desktop\AccountInterface\AccountInterface\bin\Debug\netcoreapp3.1\AccountInterface.pdb
+C:\Users\sh13ld\Desktop\AccountInterface\AccountInterface\obj\Debug\netcoreapp3.1\AccountInterface.csproj.AssemblyReference.cache
+C:\Users\sh13ld\Desktop\AccountInterface\AccountInterface\obj\Debug\netcoreapp3.1\AccountInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sh13ld\Desktop\AccountInterface\AccountInterface\obj\Debug\netcoreapp3.1\AccountInterface.AssemblyInfoInputs.cache
+C:\Users\sh13ld\Desktop\AccountInterface\AccountInterface\obj\Debug\netcoreapp3.1\AccountInterface.AssemblyInfo.cs
+C:\Users\sh13ld\Desktop\AccountInterface\AccountInterface\obj\Debug\netcoreapp3.1\AccountInterface.csproj.CoreCompileInputs.cache
+C:\Users\sh13ld\Desktop\AccountInterface\AccountInterface\obj\Debug\netcoreapp3.1\AccountInterface.dll
+C:\Users\sh13ld\Desktop\AccountInterface\AccountInterface\obj\Debug\netcoreapp3.1\AccountInterface.pdb
+C:\Users\sh13ld\Desktop\AccountInterface\AccountInterface\obj\Debug\netcoreapp3.1\AccountInterface.genruntimeconfig.cache
